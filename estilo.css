@@ -1,0 +1,29 @@
+
+
+/* @import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+p.zhi{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 150%;
+/* 
+@font-face { font-family: 'Poppins'; font-style: normal; font-weight: 100; src: url('../fonts/poppins-v9-latin-100.eot'); src: local('Poppins Thin'), local('Poppins-Thin'), url('../fonts/poppins-v9-latin-100.eot?#iefix') format('embedded-opentype'), url('../fonts/poppins-v9-latin-100.woff2') format('woff2'), url('../fonts/poppins-v9-latin-100.woff') format('woff'), url('../fonts/poppins-v9-latin-100.ttf') format('truetype'), url('../fonts/poppins-v9-latin-100.svg#Poppins') format('svg'); }
+
+
+
+p.p1_section1 {
+line-height: 200%;
+}
+p.p2_section1 {
+    line-height: 70%;
+    }
+    p.p1_section2 {
+        font: 175% sans-serif;
+      }
+      p.fuente_arial {
+        font-family: Arial;
+      }
+      p.fuente_homer {
+        font-family: "Homer Simpson UI";
+      }
+      p.fuente_serif {
+        font-family: serif;
+      }
